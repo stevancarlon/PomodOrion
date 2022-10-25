@@ -1,4 +1,4 @@
-# Pomodoro
+# PomodOrion
 
 This application allows the user to configure the time of work and small breaks of a Pomodoro studying session.
 
